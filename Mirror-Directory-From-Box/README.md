@@ -1,7 +1,7 @@
 # Mirror Directory from Vanderbilt Box to ACCRE Cluster
 
-This bash script uses lftp to mirror a user-specified directory from Vanderbilt
-Box to the ACCRE cluster.
+This bash script uses lftp to mirror a user-specified directory from [Vanderbilt
+Box](https://vanderbilt.account.box.com/login) to the ACCRE cluster.
 
 ## Usage
 
